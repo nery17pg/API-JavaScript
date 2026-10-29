@@ -1,0 +1,22 @@
+{
+  "name": "api-node-js",
+  "version": "1.0.0",
+  "description": "Practice of APIs with nodejs",
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "Nereyda Perez",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

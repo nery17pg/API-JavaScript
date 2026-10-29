@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "The seven husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Red",
+            "year": 2017
+        },
+        {
+            "id": 2,
+            "name": "Temporada de huracanes",
+            "author": "Fernanda Melchor",
+            "year": 2017
+        }
+    ]
+}
